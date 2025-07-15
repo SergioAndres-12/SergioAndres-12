@@ -22,8 +22,6 @@
 
 - 📫 Cómo contactarme: **Seanzapataal45@gmail.com**
 
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
 
 ## 👨‍💻 Perfil
@@ -79,7 +77,5 @@
 ## 🔁 Para más proyectos experimentales o personales, visita:
 
 <p align="center">
-  <a href="https:https://github.com/Sergiozapataa" target="_blank">
-    <img src="https://img.shields.io/badge/-Sergiozapataa?style=flat&logo=github&logoColor=white" />
-  </a>
+  - 💼 Cuenta Secundaria: [@Sergiozapataa](https://github.com/Sergiozapataa)
 </p>
