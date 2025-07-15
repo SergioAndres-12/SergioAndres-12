@@ -77,5 +77,5 @@
 ## 🔁 Para más proyectos experimentales o personales, visita:
 
 <p align="center">
-  - 💼 Cuenta Secundaria: [@Sergiozapataa](https://github.com/Sergiozapataa)
+  - 💼 Cuenta Secundaria:[@Sergiozapataa](https://github.com/Sergiozapataa)
 </p>
